@@ -1,4 +1,4 @@
-UDP Pinger
+# UDP Pinger
 
 This is a simple Client and Server representation of a network Pinger using UDP.
 
